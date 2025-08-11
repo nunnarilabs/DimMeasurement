@@ -6,7 +6,7 @@ Build a dimension measurement system that would capture the length, width and he
 
 ## Sample Parcel Image Dataset
 
-A folder [link]() containing sample images of various parcel types will be shared along with this document. The dataset includes representative photos showing:
+A folder [link](/data/) containing sample images of various parcel types will be shared along with this document. The dataset includes representative photos showing:
 
 - Variation in parcel sizes
 - Common shapes and surface textures
